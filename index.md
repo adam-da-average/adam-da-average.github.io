@@ -17,7 +17,7 @@ SKILLS
 - Full UK Driving License
 - Canada IEC (International Experience Canada) working visa approved
 
-## Engagements
+## Experience
 - Equal Experts - January 2022 to December 2024
   - HMRC EIS    - 2023 to 2024
   - HMRC DPS    - 2022 to 2023
