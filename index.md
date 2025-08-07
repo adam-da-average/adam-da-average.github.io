@@ -1,21 +1,21 @@
 Platform Engineer with a demonstrated history across the HMRC account. Skilled in DevOps, Gitlab,Ansible and Linux System Administration. With a 2:1 Bachelor’s Degree in Digital & Technology Solutions from Aston University.
 
 SKILLS
-● Linux System Administration
-● Amazon Web Services (AWS)
-● EC2
-● RDS
-● S3
-● Ansible
-● Terraform
-● Git
-● Bash scripting
-● SQL
-● Python
-● Pentaho
-● Cloudera
-● Full UK Driving License
-● Canada IEC (International Experience Canada) working visa approved
+- Linux System Administration
+- Amazon Web Services (AWS)
+- EC2
+- RDS
+- S3
+- Ansible
+- Terraform
+- Git
+- Bash scripting
+- SQL
+- Python
+- Pentaho
+- Cloudera
+- Full UK Driving License
+- Canada IEC (International Experience Canada) working visa approved
 
 ## Engagements
 - Equal Experts - January 2022 to December 2024
